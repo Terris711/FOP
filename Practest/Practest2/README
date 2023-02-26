@@ -1,0 +1,18 @@
+
+
+Practest2 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+
+README - README file for Practest2
+plotter.py - read csv file, plot scatter, plotline
+scatter.png
+line plot + scatter.png
+
+## Dependencies
+
+matplotlib.pyplot
+
+## Version information
+
+31 March 2022 - initial version of Practest2 programs

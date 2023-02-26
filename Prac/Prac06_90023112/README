@@ -1,0 +1,21 @@
+## Synopsis
+
+Practical 6 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+
+README – readme file for Practical 6
+accounts.py - class definition
+animals.py - animal function
+moreaniamls.py - cat, dog and bird
+testAccounts.py - test accounts.py function
+testCat.py - test Cat class in animals.py
+banking.py - banking extended code
+_pycache_ - I don't know what is this about
+testAccounts2.py -  combine testAccounts.py and accounts.py
+testAnimals.py -  test function in animals.py
+## Dependencies
+None
+## Version information
+
+2 April 2022 - initial version of Practical 6 programs

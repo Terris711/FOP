@@ -1,0 +1,31 @@
+## Synopsis
+
+Practical 3  of Fundamental of Programming COM1005/5005
+
+## Contents
+
+README - readme file for Practical 
+growthplot.py - simulation of unconstrained growth using plot
+growthsubplot.py - simulation of unconstrained growth using subplot
+growtharray.py -simulation of unconstrained growth using array
+numbersarray.py - Read in ten numbers and give sum, min, max and mean
+numbersbar.py - Read in ten numbers and use bar chart to display
+input.txt - auto input for numbersarray and numbersbar
+dosage.py
+dosage4hr.py
+repeatdosage.py
+skipdosage.py
+figure_1.png
+figure_2.png
+figure_3.png
+figure_4.png
+figure_5.png
+## Dependencies
+matth
+numpy
+matplotlib.pylot
+## Version information
+
+11 March  2022 - initial version of Practical 2 programs
+
+

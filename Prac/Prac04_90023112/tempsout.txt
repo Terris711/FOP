@@ -1,0 +1,18 @@
+Now, let's convert between our temperature format !
+Conversion: 
+ 0 - fahr2cel
+ 1 - cel2fahr
+ 2 - cel2kel
+ 3 - kel2cel
+ 4 - fahr2kel
+ 5 - kel2fahr
+Please enter your choice of conversion between 0 and 5: 
+4
+Enter value to convert: Result is:  -20.0
+Enter value to convert: Result is:  2.0
+Enter value to convert: Result is:  24.0
+Enter value to convert: Result is:  43.0
+Enter value to convert: Result is:  57.0
+Enter value to convert: Result is:  65.0
+Enter value to convert: Result is:  60.0
+Enter value to convert: Thank you so much <3 

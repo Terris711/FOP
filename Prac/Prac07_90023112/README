@@ -1,0 +1,18 @@
+## Synopsis
+
+Practical 7 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+
+README – readme file for Practical 7
+animals.py -  object relationship between animals and shelters
+people.csv - people information
+people.py -  object relationship between student and staff
+reading.py - read file csv and test program
+shelters.py - test animals.py
+testPeople.py - test people.py
+## Dependencies
+None
+## Version information
+
+11 April 2022 - initial version of Practical 7 programs

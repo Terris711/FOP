@@ -1,0 +1,27 @@
+## Synopsis
+
+Practical 2 of Fundamental of Programming COM1005/5005
+
+## Contents
+
+README - readme file for Practical 2
+zeros.py - creating and resixing an array
+prettyface.py - ndimage module in scipy
+competitionv1.py - scores for competitors from judges
+competitionv2.py - scores for competitors from judges (more precise)
+competitionv3.py - scores for competitors from judges (more precise)
+conversions.py - module with functions to convert between units 
+testconversions.py - tests the functions in conversions.py
+converter.py - convert between temperature format
+converter2.py -  convert a list of numbers into the target unit
+temps.txt - auto input
+## Dependencies
+numpy
+scipy
+matplotlib.pyplot
+
+## Version information
+
+17 March  2022 - initial version of Practical 4  programs
+
+

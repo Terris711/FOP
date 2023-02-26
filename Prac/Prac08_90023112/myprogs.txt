@@ -1,0 +1,18 @@
+../Prac06/README:accounts.py - class definition
+../Prac06/README:animals.py - animal function
+../Prac06/README:moreaniamls.py - cat, dog and bird
+../Prac06/README:testAccounts.py - test accounts.py function
+../Prac06/README:testCat.py - test Cat class in animals.py
+../Prac06/README:banking.py - banking extended code
+../Prac06/README:_pycache_ - I don't know what is this about
+../Prac06/README:testAccounts2.py -  combine testAccounts.py and accounts.py
+../Prac06/README:testAnimals.py -  test function in animals.py
+../Prac07/README:animals.py -  object relationship between animals and shelters
+../Prac07/README:people.py -  object relationship between student and staff
+../Prac07/README:reading.py - read file csv and test program
+../Prac07/README:shelters.py - test animals.py
+../Prac07/README:testPeople.py - test people.py
+../Practest2/README:plotter.py - read csv file, plot scatter, plotline
+../Practest2/README:matplotlib.pyplot
+../Practest3/README:BankAccounts.py - Bank Account Calculation
+../Practest3/README:TestAccounts.py - Test Bank Account

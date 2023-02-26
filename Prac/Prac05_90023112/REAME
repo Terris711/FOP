@@ -1,0 +1,23 @@
+## Synopsis
+
+Practical 5 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+
+README – readme file for Practical 5
+heat.py - heat diffusion simulation
+marchout.csv - save data from running heatsource.py
+marchweatherfull.csv - weather data in March
+heatsource.csv - data input
+marchweather2.py - full march weather
+weather.py - weather file
+heatsource.py - reading heat source
+marchweather.csv - input file for weather.py
+figure 1 - marchweather.py
+figure 2 - heatsource.py
+## Dependencies
+matplotlib.pyplot
+numpy
+## Version information
+
+30 March 2022 - initial version of Practical 5 programs

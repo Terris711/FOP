@@ -1,0 +1,42 @@
+## Synopsis
+
+Mid-Trimester Test - Trimester 1, 2022 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+
+README – readme file for Mid-Trimester Test - Trimester 1
+
+Fibonacci.py - Question 1a
+Semantic_Error.py - Question 1b
+Syntax_Error.py - Question 1b
+file1.csv - Question 1c, iii
+test.py - Question 1c, iii
+
+ArrayExample.py - Question 2a
+arrayOperation.py - Question 2b
+plotData.py - Question 2c
+Display.png - plot data for Question 2c
+multilineplot.py - Question 2d
+
+Functions.py - Question 3a
+read.py - Question 3b ( demo for read() and readlines())
+read.csv - Question 3b (a part of data from netflix.csv in assignment 1)
+comprehension.py - Question 3c
+
+zero.py - Question 4a (creating and resizing an array)
+prettyface.py - Question 4b
+
+values.csv - Question 5c (input 5 values)
+doubled_value.csv - Question 5c (store the result of doubled numbers)
+doubled_values.py - Question 5c
+
+Thi Van Anh Duong_90023112_Answer - Document file for theory questions.
+
+## Dependencies
+matplotlib.pyplot
+numpy
+csv
+
+## Version information
+
+1 May 2022 - initial version of Mid-Trimester Test  programs
