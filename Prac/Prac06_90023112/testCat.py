@@ -14,8 +14,3 @@ garfield = Cat('Garfield', '1/1/1978', 'Orange', 'Tabby')
 garfield.printit()
 print(garfield)
 print()
-
-from animals import Bird
-Mybird = Bird('Trung Nguyen', '17/08/2001', 'Coffee', 'Van Anh')
-Mybird.printit()
-print(garfield)
